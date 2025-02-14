@@ -1,0 +1,1 @@
+Prior to this reading, I did not clearly understand that GitHub allowed you to make changes to a version of the program local to your computer, and then 'push' thsoe changes to a remote cloud reopsitory. In addition, I did not know that people could be added to 'pull' requests to verify the changes you had make before submitting your changes to the main branch.
